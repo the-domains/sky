@@ -1,7 +1,7 @@
 name: sky
 favicon: null
-layout_spectrum: 0.11540023074485362
-typography_spectrum: 0.505010639782995
+layout_spectrum: 0.75797
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.9863964968826622
-  lightness: 0.42992609250359237
-  saturation: 0.13707398297265172
-  rhythmicContrast: 0.7945547720883042
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
