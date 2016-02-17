@@ -1,0 +1,28 @@
+name: sky
+favicon: null
+layout_spectrum: 0.11540023074485362
+typography_spectrum: 0.505010639782995
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9863964968826622
+  lightness: 0.42992609250359237
+  saturation: 0.13707398297265172
+  rhythmicContrast: 0.7945547720883042
+purpose: []
