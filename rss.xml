@@ -4,8 +4,15 @@
         <description><![CDATA[skyisthelimit]]></description>
         <link>https://thegrid.ai/sky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 18:47:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[091]]></title>
+            <description><![CDATA[<article><h1>091</h1><p>Fantastic graphic perspective section and elevation. My kind of drawing. Ace stuff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5360036a6313e6f2e29cc009d4d5d5e3a0be6ee1.png"></article>]]></description>
+            <link>https://thegrid.ai/sky/091/index.html</link>
+            <guid isPermaLink="false">00793c1e-ddd4-473c-b34f-95d6530ee57f</guid>
+            <pubDate>Sat, 20 Feb 2016 18:43:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gallery of eVolo Announces 2015 Skyscraper Competition Winners - 1]]></title>
             <description><![CDATA[<article><h1>Gallery of eVolo Announces 2015 Skyscraper Competition Winners - 1</h1><p>Image 1 of 24 from gallery of eVolo Announces 2015 Skyscraper Competition Winners. First Place: "Essence Skyscraper" / BOMP (Ewa Odyjas, Agnieszka Morga, Konrad Basan, Jakub Pudo). Image Courtesy of eVolo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0342ef614607d25134deba1e906acf9374ae0dfe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sky/wearable-solar/index.html</link>
             <guid isPermaLink="false">a3daccbb-3433-4835-b25b-3595db56d120</guid>
             <pubDate>Sat, 20 Feb 2016 18:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin Community Celebrates as Merge Mining with Litecoin Begins]]></title>
-            <description><![CDATA[<article><h1>Dogecoin Community Celebrates as Merge Mining with Litecoin Begins</h1><h2>Community celebrates fork</h2><p>Dogecoin has officially switched to auxiliary proof-of-work (AuxPoW) mining.</p></article>]]></description>
-            <link>https://thegrid.ai/sky/dogecoin-community-celebrates-as-merge-mining-with-litecoin/index.html</link>
-            <guid isPermaLink="false">a0a4d295-fd81-400d-8481-e94b522d4463</guid>
-            <pubDate>Wed, 17 Feb 2016 22:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
